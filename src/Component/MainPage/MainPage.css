@@ -1,0 +1,10 @@
+@media(max-width:765px){
+    .res-image{
+        display: none;
+    }
+}
+@media(min-width:766px){
+    .res-image{
+        display:block;
+    }
+}
